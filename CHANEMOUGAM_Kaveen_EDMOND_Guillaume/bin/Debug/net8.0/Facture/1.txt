@@ -1,0 +1,13 @@
+FACTURE
+===============
+Commande ID: 1
+Client: NOMModifier1 ClientPrenom1
+Chauffeur: Nom1 Prénom1
+Véhicule: FRG001
+Date de la commande: 05/05/2024
+Ville de départ: PARIS
+Ville d'arrivée: MARSEILLE
+Distance: 1590 km
+Prix: 2385 EUR
+Statut: En cours
+===============

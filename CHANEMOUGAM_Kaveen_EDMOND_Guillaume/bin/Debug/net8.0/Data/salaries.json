@@ -1,0 +1,151 @@
+{
+  "Salarie": {
+    "DateEntree": "1994-05-15T16:29:15.697866+02:00",
+    "Poste": "Directeur Général",
+    "Salaire": 18000.0,
+    "Id": 1,
+    "Nom": "Dupont",
+    "Prenom": "Jean",
+    "DateDeNaissance": "1960-01-01T00:00:00",
+    "Adresse": "123 Boulevard du General, Paris",
+    "Email": "dupond@example.com",
+    "Telephone": "0102030405"
+  },
+  "Successeur": {
+    "Salarie": {
+      "DateEntree": "2004-05-15T16:29:15.7067869+02:00",
+      "Poste": "Directeur des Opérations",
+      "Salaire": 16000.0,
+      "Id": 2,
+      "Nom": "Martin",
+      "Prenom": "DO_Transconnect",
+      "DateDeNaissance": "1970-05-05T00:00:00",
+      "Adresse": "127 Boulevard des Opérations, Paris",
+      "Email": "martin@example.com",
+      "Telephone": "0102030406"
+    },
+    "Successeur": {
+      "Salarie": {
+        "DateEntree": "2014-05-15T16:29:15.7070535+02:00",
+        "Poste": "Chef d'Équipe",
+        "Salaire": 12000.0,
+        "Id": 3,
+        "Nom": "Leroy",
+        "Prenom": "Alice",
+        "DateDeNaissance": "1980-06-06T00:00:00",
+        "Adresse": "128 Boulevard des Opérations, Paris",
+        "Email": "leroy@example.com",
+        "Telephone": "0102030407"
+      },
+      "Successeur": null,
+      "Frere": {
+        "Salarie": {
+          "DateEntree": "2019-05-15T16:29:15.7070997+02:00",
+          "Poste": "Chef d'Équipe",
+          "Salaire": 11000.0,
+          "Id": 4,
+          "Nom": "Durand4",
+          "Prenom": "Alice4",
+          "DateDeNaissance": "1990-04-04T00:00:00",
+          "Adresse": "1304 Bd des Opérations, Paris",
+          "Email": "durand4@example.com",
+          "Telephone": "0102030408"
+        },
+        "Successeur": null,
+        "Frere": {
+          "Salarie": {
+            "DateEntree": "2019-05-15T16:29:15.7073312+02:00",
+            "Poste": "Chef d'Équipe",
+            "Salaire": 11000.0,
+            "Id": 5,
+            "Nom": "Durand5",
+            "Prenom": "Alice5",
+            "DateDeNaissance": "1990-05-05T00:00:00",
+            "Adresse": "1305 Bd des Opérations, Paris",
+            "Email": "durand5@example.com",
+            "Telephone": "0102030408"
+          },
+          "Successeur": null,
+          "Frere": null
+        }
+      }
+    },
+    "Frere": {
+      "Salarie": {
+        "DateEntree": "2009-05-15T16:29:15.707335+02:00",
+        "Poste": "Directeur RH",
+        "Salaire": 15000.0,
+        "Id": 7,
+        "Nom": "Blanc",
+        "Prenom": "Sophie",
+        "DateDeNaissance": "1975-02-03T00:00:00",
+        "Adresse": "132 Boulevard du RH, Paris",
+        "Email": "blanc@example.com",
+        "Telephone": "0102030409"
+      },
+      "Successeur": {
+        "Salarie": {
+          "DateEntree": "2016-05-15T16:29:15.7073356+02:00",
+          "Poste": "Manager RH",
+          "Salaire": 9000.0,
+          "Id": 8,
+          "Nom": "Petit",
+          "Prenom": "Julie",
+          "DateDeNaissance": "1985-04-05T00:00:00",
+          "Adresse": "134 Boulevard du RH, Paris",
+          "Email": "petit@example.com",
+          "Telephone": "0102030410"
+        },
+        "Successeur": null,
+        "Frere": null
+      },
+      "Frere": {
+        "Salarie": {
+          "DateEntree": "2024-05-05T00:00:00",
+          "Poste": "Directeur C#",
+          "Salaire": 12000.0,
+          "Id": 11,
+          "Nom": "EdmondChanemougam",
+          "Prenom": "LeG_LeK",
+          "DateDeNaissance": "2024-05-15T16:35:53.3122657+02:00",
+          "Adresse": "Adresse non spécifiée",
+          "Email": "leGleK@gmail.com",
+          "Telephone": "0782854435"
+        },
+        "Successeur": {
+          "Salarie": {
+            "DateEntree": "2024-05-05T00:00:00",
+            "Poste": "Femme de ménage",
+            "Salaire": 10000.0,
+            "Id": 12,
+            "Nom": "fontaine",
+            "Prenom": "romane",
+            "DateDeNaissance": "2024-05-15T19:27:16.6840769+02:00",
+            "Adresse": "Adresse non spécifiée",
+            "Email": "romane@gmail.com",
+            "Telephone": "0744848881"
+          },
+          "Successeur": null,
+          "Frere": null
+        },
+        "Frere": {
+          "Salarie": {
+            "DateEntree": "2025-05-14T00:00:00",
+            "Poste": "Directeur python",
+            "Salaire": 5540.0,
+            "Id": 13,
+            "Nom": "edmond",
+            "Prenom": "gabriel",
+            "DateDeNaissance": "2024-05-15T19:44:58.9969365+02:00",
+            "Adresse": "4 rue de paris",
+            "Email": "g@gmail.com",
+            "Telephone": "0744846865"
+          },
+          "Successeur": null,
+          "Frere": null
+        }
+      }
+    }
+  },
+  "Frere": null
+}

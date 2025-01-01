@@ -1,0 +1,13 @@
+FACTURE
+===============
+Commande ID: 2
+Client: ClientNom3 ClientPrenom3
+Chauffeur: Nom1 Prénom1
+Véhicule: VAN001
+Date de la commande: 05/05/2025
+Ville de départ: PARIS
+Ville d'arrivée: LYON
+Distance: 464 km
+Prix: 696 EUR
+Statut: Livrée
+===============

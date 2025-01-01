@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pz5fe3wkYvLTCLFIyzn+7YS2SA+e6l0moxP6dwsmNKzxp2CrRJiNYbXtyO39hgQEy2kukURFH2HulNfh2oMC7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chane\\Documents\\C#\\CHANEMOUGAM_Kaveen_EDMOND_Guillaume\\CHANEMOUGAM_Kaveen_EDMOND_Guillaume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chane\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
